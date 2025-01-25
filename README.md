@@ -33,7 +33,7 @@ git clone https://github.com/Cyfrin/foundry-fund-me-cu
 Final project repository:
 
 ```bash
-insert link
+https://github.com/marina-ciuperca/Foundry_FundMe.git
 ```
 
 ---
